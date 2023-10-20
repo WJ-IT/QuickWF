@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">강남 퀵 등록</string>
+    <string name="title_home">라이더 검색</string>
+    <string name="title_dashboard">라이더 등록</string>
+    <string name="title_notifications">출고분 선택</string>
+
+    <string name="rs_norider">라이더 번호</string>
+    <string name="rs_search">검색</string>
+    <string name="rs_select">선택</string>
+    <string name="rs_err_norider">라이더 번호를 입력하세요.</string>
+    <string name="rs_hint">번호입력</string>
+    <string name="rs_name">라이더 정보 찾기</string>
+    <string name="rs_no_title">라이더</string>
+
+    <string name="rgi_name">라이더 등록</string>
+    <string name="rgi_norider">라이더 번호</string>
+    <string name="rgi_hprider">라이더 H.P.</string>
+    <string name="rgi_nmrider">라이더 이름</string>
+    <string name="rgi_methrider">기본 이동방식</string>
+    <string name="rgi_nochk">중복체크</string>
+    <string name="rgi_regi">등록하기</string>
+    <string name="rgi_hint_nmrider">성함 입력</string>
+    <string name="rgi_hint_norider">번호 입력</string>
+    <string name="rgi_hint_hprider">숫자만 입력 해주세요</string>
+    <string name="rgi_meth_01">오토바이</string>
+    <string name="rgi_meth_02">지하철</string>
+    <string name="rgi_meth_03">직원</string>
+    <string name="rgi_meth_04">다마스</string>
+    <string name="rgi_agree_private">개인정보 수집동의</string>
+    <string name="rgi_agree_01">- 수집항목 : 라이더번호, 이름, 전화번호</string>
+    <string name="rgi_agree_02">- 보유기간 : 최종사용 후 1년</string>
+
+    <string name="out_name">퀵 대기 리스트</string>
+    <string name="out_resion_wa">수서</string>
+    <string name="out_resion_wf">강남</string>
+    <string name="out_name_new">리스트에 없는 배송지(수기입력)✍️</string>
+    <string name="out_dest_new">배달장소</string>
+    <string name="out_hint_dest_new">간단한 배달지 명</string>
+    <string name="out_rider_info">🚩배송자 정보</string>
+    <string name="out_deli_list">리스트 선택항목 배송 출발 🏍️</string>
+    <string name="out_deli_new">수기입력 배송 출발 🏍️</string>
+    <string name="out_ccode">법인선택</string>
+    <string name="out_ccode_m">메디칼</string>
+    <string name="out_ccode_vt">브이티</string>
+    <string name="out_ccode_vs">브이에스</string>
+</resources>
